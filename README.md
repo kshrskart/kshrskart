@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @kshrskart
 - 👀 I’m interested in programming, gaming and drawing sometimes
 - 🌱 I’m currently learning python in my University
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me (vk.com/kshrskart)
 
 <!---
