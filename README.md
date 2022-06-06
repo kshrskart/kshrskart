@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kshrskart
 - 👀 I’m interested in programming, gaming and drawing sometimes
-- 🌱 I’m currently learning python in my University
+- 🌱 I’m currently learning java and C++ in my University
 - 📫 How to reach me (vk.com/kshrskart)
 
 <!---
